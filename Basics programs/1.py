@@ -13,4 +13,5 @@ print ("/ of two number is : ",b/a)
 
 print (b % a) #remainder 
 print ("power of ",a,"is ",b,"so : ",a ** b) #a^b
+print ("power of ",a,"is ",b,"so : ",a ** b) #a^b
 
